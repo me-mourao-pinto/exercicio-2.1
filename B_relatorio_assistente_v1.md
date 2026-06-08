@@ -1,10 +1,3 @@
-# B — Relatório do Assistente — v1
-
-**Versão:** 1.0  
-**Data:** 07/06/2026
-
-## Resposta do Gemini ao prompt elaborado pelo CHATGPT
-
 Como especialista em atendimento público e serviços sociais no Brasil, estruturei este mapeamento estratégico para redesenhar a jornada do cidadão no ecossistema do Seguro-Desemprego via URA (Unidade de Resposta Audível) da Caixa Econômica Federal.
 
 O desenho de um serviço público eficiente exige uma visão holística. Abaixo, divido a análise entre o mapeamento dos atores-chave, os pontos de fricção na jornada, as premissas para um atendimento ideal e as recomendações operacionais.
